@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/PriyanshiPrateek812/CoffeeWebsite/static/js/main.35c7eb5a.chunk.js",
-    "main.js.map": "/PriyanshiPrateek812/CoffeeWebsite/static/js/main.35c7eb5a.chunk.js.map",
-    "runtime-main.js": "/PriyanshiPrateek812/CoffeeWebsite/static/js/runtime-main.105e67c1.js",
-    "runtime-main.js.map": "/PriyanshiPrateek812/CoffeeWebsite/static/js/runtime-main.105e67c1.js.map",
-    "static/js/2.97505cae.chunk.js": "/PriyanshiPrateek812/CoffeeWebsite/static/js/2.97505cae.chunk.js",
-    "static/js/2.97505cae.chunk.js.map": "/PriyanshiPrateek812/CoffeeWebsite/static/js/2.97505cae.chunk.js.map",
-    "index.html": "/PriyanshiPrateek812/CoffeeWebsite/index.html",
-    "precache-manifest.c3c264bdf7b66cb82d8d85564f589439.js": "/PriyanshiPrateek812/CoffeeWebsite/precache-manifest.c3c264bdf7b66cb82d8d85564f589439.js",
-    "service-worker.js": "/PriyanshiPrateek812/CoffeeWebsite/service-worker.js",
-    "static/media/step1.png": "/PriyanshiPrateek812/CoffeeWebsite/static/media/step1.885ee367.png",
-    "static/media/step2.png": "/PriyanshiPrateek812/CoffeeWebsite/static/media/step2.d113d23d.png",
-    "static/media/step3.png": "/PriyanshiPrateek812/CoffeeWebsite/static/media/step3.5878cae9.png",
-    "static/media/step4.png": "/PriyanshiPrateek812/CoffeeWebsite/static/media/step4.a321e615.png",
-    "static/media/step5.png": "/PriyanshiPrateek812/CoffeeWebsite/static/media/step5.2756f010.png",
-    "static/media/step6.png": "/PriyanshiPrateek812/CoffeeWebsite/static/media/step6.2ee72f55.png"
+    "main.js": "/CoffeeWebsite/static/js/main.35c7eb5a.chunk.js",
+    "main.js.map": "/CoffeeWebsite/static/js/main.35c7eb5a.chunk.js.map",
+    "runtime-main.js": "/CoffeeWebsite/static/js/runtime-main.da276c9b.js",
+    "runtime-main.js.map": "/CoffeeWebsite/static/js/runtime-main.da276c9b.js.map",
+    "static/js/2.97505cae.chunk.js": "/CoffeeWebsite/static/js/2.97505cae.chunk.js",
+    "static/js/2.97505cae.chunk.js.map": "/CoffeeWebsite/static/js/2.97505cae.chunk.js.map",
+    "index.html": "/CoffeeWebsite/index.html",
+    "precache-manifest.6c0f67aa15f4e281f6ad00cc976ad039.js": "/CoffeeWebsite/precache-manifest.6c0f67aa15f4e281f6ad00cc976ad039.js",
+    "service-worker.js": "/CoffeeWebsite/service-worker.js",
+    "static/media/step1.png": "/CoffeeWebsite/static/media/step1.885ee367.png",
+    "static/media/step2.png": "/CoffeeWebsite/static/media/step2.d113d23d.png",
+    "static/media/step3.png": "/CoffeeWebsite/static/media/step3.5878cae9.png",
+    "static/media/step4.png": "/CoffeeWebsite/static/media/step4.a321e615.png",
+    "static/media/step5.png": "/CoffeeWebsite/static/media/step5.2756f010.png",
+    "static/media/step6.png": "/CoffeeWebsite/static/media/step6.2ee72f55.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.105e67c1.js",
+    "static/js/runtime-main.da276c9b.js",
     "static/js/2.97505cae.chunk.js",
     "static/js/main.35c7eb5a.chunk.js"
   ]
