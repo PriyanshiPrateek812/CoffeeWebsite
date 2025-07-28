@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/PriyanshiPrateek812/CoffeeWebsite.git/static/js/main.35c7eb5a.chunk.js",
+    "main.js.map": "/PriyanshiPrateek812/CoffeeWebsite.git/static/js/main.35c7eb5a.chunk.js.map",
+    "runtime-main.js": "/PriyanshiPrateek812/CoffeeWebsite.git/static/js/runtime-main.16a3c1e4.js",
+    "runtime-main.js.map": "/PriyanshiPrateek812/CoffeeWebsite.git/static/js/runtime-main.16a3c1e4.js.map",
+    "static/js/2.97505cae.chunk.js": "/PriyanshiPrateek812/CoffeeWebsite.git/static/js/2.97505cae.chunk.js",
+    "static/js/2.97505cae.chunk.js.map": "/PriyanshiPrateek812/CoffeeWebsite.git/static/js/2.97505cae.chunk.js.map",
+    "index.html": "/PriyanshiPrateek812/CoffeeWebsite.git/index.html",
+    "precache-manifest.8285353d228812a02a8038b22a104845.js": "/PriyanshiPrateek812/CoffeeWebsite.git/precache-manifest.8285353d228812a02a8038b22a104845.js",
+    "service-worker.js": "/PriyanshiPrateek812/CoffeeWebsite.git/service-worker.js",
+    "static/media/step1.png": "/PriyanshiPrateek812/CoffeeWebsite.git/static/media/step1.885ee367.png",
+    "static/media/step2.png": "/PriyanshiPrateek812/CoffeeWebsite.git/static/media/step2.d113d23d.png",
+    "static/media/step3.png": "/PriyanshiPrateek812/CoffeeWebsite.git/static/media/step3.5878cae9.png",
+    "static/media/step4.png": "/PriyanshiPrateek812/CoffeeWebsite.git/static/media/step4.a321e615.png",
+    "static/media/step5.png": "/PriyanshiPrateek812/CoffeeWebsite.git/static/media/step5.2756f010.png",
+    "static/media/step6.png": "/PriyanshiPrateek812/CoffeeWebsite.git/static/media/step6.2ee72f55.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16a3c1e4.js",
+    "static/js/2.97505cae.chunk.js",
+    "static/js/main.35c7eb5a.chunk.js"
+  ]
+}
